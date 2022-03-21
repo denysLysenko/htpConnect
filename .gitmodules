@@ -1,0 +1,3 @@
+[submodule "NSTestFrontend"]
+	path = NSTestFrontend
+	url = https://github.com/denysLysenko/NSTestFrontend.git
